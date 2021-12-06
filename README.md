@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [Portfolio](https://gatwirival.netlify.app/)
 
-- ⚡ Fun fact **I love animals and bikes **
+- ⚡ Fun fact **I love animals and bikes**
 
 
 <h2 align="left">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"></h2>
