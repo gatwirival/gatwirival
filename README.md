@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **DSA**
 
-- 📝 I write articles at times on [Medium](https://medium.com/@compgat) and [section-Engineering-section](section.io/engineering)
+- 📝 I write articles at times on [Medium](https://medium.com/@compgat) and [section/Engineering-section](section.io)
 - 💬 Ask me about **MERN stack, Android, Technical Writting**
 
 - 📫 How to reach me **valegjohn@gmail.com**
