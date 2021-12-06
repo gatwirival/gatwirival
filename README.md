@@ -36,13 +36,13 @@
 
 <h2 align="left">Languages and Tools I use <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></h2>
 <p align="left"> 
- <img src="![image](https://user-images.githubusercontent.com/61587290/144887209-d8ef5de8-a9aa-4bfb-8141-3d9235484020.png)" alt="mongodb" width="40" height="40"/> </a>  
- <img src="![image](https://user-images.githubusercontent.com/61587290/144887083-034f989e-f9c8-4045-9e52-55fae20616ef.png)" alt="react" width="40" height="40"/> </a>
- <img src="![image](https://user-images.githubusercontent.com/61587290/144886900-5eb8bbec-3553-47d6-8840-89cd8e6ff06b.png)" alt="javascript" width="40" height="40"/> </a> 
+ <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/mongodbImage.png" alt="mongodb" width="40" height="40"/> </a>  
+ <img src="https://reactjs.org/logo-og.png" alt="react" width="40" height="40"/> </a>
+ <img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2020/04/J.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://html.com/html5/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a> 
-<img src="![image](https://user-images.githubusercontent.com/61587290/144886741-acd22a1c-af3b-45de-8442-d875f441beef.png)" alt="node" width="40" height="40"/> </a> 
- <img src="![image](https://user-images.githubusercontent.com/61587290/144886505-eb8987aa-6577-4371-9ac0-3cd3a886ab70.png)" alt="kotlin" width="40" height="40"/> </a>  
+<img src="https://media-exp1.licdn.com/dms/image/C510BAQG_1VWEGBmO9A/company-logo_200_200/0/1519884867309?e=2159024400&v=beta&t=PGsXMHzeJGC6rYO5Ow6_JzSos-YomfUHU0b_k7q_TjY" alt="node" width="40" height="40"/> </a> 
+ <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F06%2FKotlin_Icon.svg&imgrefurl=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2FKotlin&tbnid=Def3V64tm4TOGM&vet=12ahUKEwjat-qx1c_0AhVgAGMBHVhoB6EQMygAegUIARDQAQ..i&docid=ZSIp89nVwipWLM&w=800&h=800&itg=1&q=kotlin&client=ubuntu&ved=2ahUKEwjat-qx1c_0AhVgAGMBHVhoB6EQMygAegUIARDQAQ" alt="kotlin" width="40" height="40"/> </a>  
 
 </p>
 
