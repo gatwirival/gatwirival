@@ -42,7 +42,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://html.com/html5/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a> 
 <img src="https://media-exp1.licdn.com/dms/image/C510BAQG_1VWEGBmO9A/company-logo_200_200/0/1519884867309?e=2159024400&v=beta&t=PGsXMHzeJGC6rYO5Ow6_JzSos-YomfUHU0b_k7q_TjY" alt="node" width="40" height="40"/> </a> 
- <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F06%2FKotlin_Icon.svg&imgrefurl=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2FKotlin&tbnid=Def3V64tm4TOGM&vet=12ahUKEwjat-qx1c_0AhVgAGMBHVhoB6EQMygAegUIARDQAQ..i&docid=ZSIp89nVwipWLM&w=800&h=800&itg=1&q=kotlin&client=ubuntu&ved=2ahUKEwjat-qx1c_0AhVgAGMBHVhoB6EQMygAegUIARDQAQ" alt="kotlin" width="40" height="40"/> </a>  
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="40" height="40"/> </a>  
 
 </p>
 
