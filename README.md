@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **kotlin**
 
-- 👯 I’m looking to collaborate on **React.js or MERN Based Projects **
+- 👯 I’m looking to collaborate on **React.js or MERN Based Projects**
 
 - 🤝 I’m looking for help with **DSA**
 
