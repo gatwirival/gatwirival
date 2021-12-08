@@ -1,5 +1,5 @@
 <h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Valentine Gatwiri</h1>
-<h3 align="center">A passionate MERN stack developer ,technical writer and space lover</h3>
+<h3 align="center">A passionate React. js developer ,technical writer and space lover</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gatwirival&label=Profile%20views&color=0e75b6&style=flat" alt="gatwirival" /> </p>
 <p align="left"> <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='3%' height='3%'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='3%' height='3%'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='3%' height='3%'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='3%' height='3%'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='3%' height='3%'></a> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **kotlin**
 
-- 👯 I’m looking to collaborate on **MERN Based Projects**
+- 👯 I’m looking to collaborate on **React.js or MERN Based Projects **
 
 - 🤝 I’m looking for help with **DSA**
 
