@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ValentineGatwi3" target="blank"><img src="https://img.shields.io/twitter/follow/ValentineGatwi3?logo=twitter&style=for-the-badge" alt="ValentineGatwi3" /></a> </p>
 
-- 🔭 I’m currently working on **react projects **
+- 🔭 I’m currently working on **react projects**
 
 - 🌱 I’m currently learning **DSA**
 
@@ -16,7 +16,7 @@
 - 🤝 I’m looking for help with **DSA**
 
 - 📝 I write articles at times on [Medium](https://medium.com/@compgat) and [section/Engineering-section](https://www.section.io/)
-- 💬 Ask me about **MERN stack, Android, Technical Writting**
+- 💬 Ask me about **React.js, Android, Technical Writting**
 
 - 📫 How to reach me **valegjohn@gmail.com**
 
