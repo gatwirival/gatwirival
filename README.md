@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ValentineGatwi3" target="blank"><img src="https://img.shields.io/twitter/follow/ValentineGatwi3?logo=twitter&style=for-the-badge" alt="ValentineGatwi3" /></a> </p>
 
-- 🔭 I’m currently working on **mern stack**
+- 🔭 I’m currently working on **react projects **
 
-- 🌱 I’m currently learning **kotlin**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **React.js or MERN Based Projects**
 
