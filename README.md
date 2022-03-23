@@ -5,7 +5,7 @@
 <p align="left"> <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='3%' height='3%'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='3%' height='3%'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='3%' height='3%'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='3%' height='3%'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='3%' height='3%'></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gatwirival" alt="rvndsngwn" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ValentineGatwi3" target="blank"><img src="https://img.shields.io/twitter/follow/ValentineGatwi3?logo=twitter&style=for-the-badge" alt="ValentineGatwi3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gatwirival" target="blank"><img src="https://img.shields.io/twitter/follow/ValentineGatwi3?logo=twitter&style=for-the-badge" alt="ValentineGatwi3" /></a> </p>
 
 - 🔭 I’m currently working on **react projects**
 
