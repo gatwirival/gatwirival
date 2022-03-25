@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **React.js or MERN Based Projects**
+- 👯 I’m looking to collaborate on **React.js or kotlin Based Projects**
 
 - 🤝 I’m looking for help with **DSA**
 
@@ -36,7 +36,7 @@
 
 <h2 align="left">Languages and Tools I use <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></h2>
 <p align="left"> 
- <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/mongodbImage.png" alt="mongodb" width="40" height="40"/> </a>  
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/411px-Ruby_On_Rails_Logo.svg.png?20170116014735" alt="ruby on rails" width="40" height="40"/> </a>  
  <img src="https://reactjs.org/logo-og.png" alt="react" width="40" height="40"/> </a>
  <img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2020/04/J.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
