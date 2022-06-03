@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Valentine Gatwiri</h1>
+<h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 10px>, I'm Valentine Gatwiri</h1>
 <h3 align="center">A passionate React. js developer ,technical writer and space lover</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gatwirival&label=Profile%20views&color=0e75b6&style=flat" alt="gatwirival" /> </p>
