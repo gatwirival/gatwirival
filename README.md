@@ -16,9 +16,8 @@
 - 🤝 I’m looking for help with **DSA**
 
 - 📝 I write articles at times on [Medium](https://medium.com/@compgat) and [section.io](https://www.section.io/engineering-education/authors/valentine-gatwiri/)
-- 💬 Ask me about **React.js, Android, Technical Writting**
 
-- 📫 How to reach me **valegjohn@gmail.com**
+- 💬 Ask me about **React.js, Android, Technical Writting**
 
 - 📄 Know about my experiences [Portfolio](https://gatwirival.netlify.app/)
 
