@@ -1,5 +1,4 @@
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/gatwirival.svg?style=social&label=Follow%20%40gatwirival)](https://twitter.com/gatwirival)
-
+<a href="https://twitter.com/@gatwirival"><img alt="Twitter" src="https://img.shields.io/.svg?style=social/badge/Google-DevLibrary-blue"></a>
 <a href="https://medium.com/@gatwirival"><img alt="Medium" src="https://img.shields.io/badge/Google-DevLibrary-blue"></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gatwirival&show_icons=true&locale=en&layout=compact" alt="gatwirival" /></p>
