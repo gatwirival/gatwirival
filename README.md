@@ -3,6 +3,4 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gatwirival&show_icons=true&locale=en&layout=compact" alt="gatwirival" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gatwirival&" alt="valentine" /></p>
-<br>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=gatwirival" alt="valentine" /></p>
-<br>
+
