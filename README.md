@@ -1,5 +1,4 @@
-<a href="https://devlibrary.withgoogle.com/authors/gatwirival"><img alt="Google Developers" src="https://gatwirival.github.io/badges/google-devlib.svg"/></a> 
-<a href="https://medium.com/@gatwirival"><img alt="Medium" src="https://gatwirival.github.io/badges/Story-Medium.svg"/></a>
+
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/gatwirival.svg?style=social&label=Follow%20%40gatwirival)](https://twitter.com/gatwirival)
 
 </br></br>
