@@ -2,6 +2,8 @@
 <a href="https://medium.com/@gatwirival"><img alt="Medium" src="https://img.shields.io/badge/GoogleDevLibrary-gatwirival-blue"></a>
 <a href="https://www.section.io/engineering-education/authors/valentine-gatwiri/"><img alt="Section.io" src="https://img.shields.io/badge/Section Contributor-gatwiri-green"></a>
 <a href="https://wtm.advocu.com/home/ambassadors/628662347d30b55b91614eff"><img alt="WTM" src="https://img.shields.io/badge/GoogleWTM-gatwirival-blue"></a>
+<a href="https://www.freecodecamp.org/news/author/gatwirival/"><img alt="Twitter" src="https://img.shields.io/badge/FreeCodeCamp Contributor-@gatwirival-blue"></a>
+
 <table>
   <tr>
 <td>
