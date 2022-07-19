@@ -4,6 +4,12 @@
 <a href="https://wtm.advocu.com/home/ambassadors/628662347d30b55b91614eff"><img alt="WTM" src="https://img.shields.io/badge/GoogleWTM-gatwirival-blue"></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gatwirival&show_icons=true&locale=en&layout=compact" alt="gatwirival" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gatwirival&" alt="valentine" /></p>
-</br>
+<td>
+       <a href="https://github.com/gatwirival"><img alt="Gatwirival's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gatwirival&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+    </td>
+    <td>
+       <a href="http://www.github.com/gatwirival"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gatwirival&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/gatwirival"><img alt="Gatwirival's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatwirival&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
